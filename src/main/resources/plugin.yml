@@ -1,0 +1,6 @@
+name: Citybuild
+version: '1.0'
+main: de.welovepaperapi.BedrockForms
+api-version: '1.21'
+authors: [WeLovePaperAPI]
+website: https://polixer.de
